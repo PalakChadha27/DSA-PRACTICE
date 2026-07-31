@@ -59,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
