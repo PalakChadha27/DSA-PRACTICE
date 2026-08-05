@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -62,9 +63,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PalakChadha27/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
